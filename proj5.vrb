@@ -1,0 +1,24 @@
+\frametitle{From asynchronous to synchronous}
+\begin{block}{Generator example}
+\begin{lstlisting}[language=javascript,xleftmargin=3.5ex]
+function* countToThree(){
+	yield console.log('One');
+	yield setTimeout(function wait() {
+		console.log('Two');
+	}, 3000);
+	yield console.log('Three');
+}
+const generator = countToThree();
+generator.next();
+generator.next();
+generator.next();
+\end{lstlisting}
+\end{block}
+
+\begin{block}{The output}
+\begin{lstlisting}[language=javascript,xleftmargin=3.5ex]
+One
+Two
+Three
+\end{lstlisting}
+\end{block}

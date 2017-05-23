@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+NAME;CHARSET=utf-8:Ing. Pavel Očenášek, Ph.D.
+N;CHARSET=utf-8:Očenášek;Pavel;;Ing.;Ph.D.
+ORG;CHARSET=utf-8:Department of Information Systems
+FN;CHARSET=utf-8:Pavel Očenášek
+TITLE;CHARSET=utf-8:Assistant professor
+EMAIL:ocenaspa@fit.vutbr.cz
+ADR;CHARSET=utf-8:;DIFS FIT BUT;Božetěchova 2;Brno;;612 66;CZ;
+TEL;WORK:+420 541141322
+END:VCARD
