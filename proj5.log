@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.5.14)  23 MAY 2017 03:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.5.14)  24 MAY 2017 01:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1264,7 +1264,7 @@ input line 129.
  <./application_architecture-eps-converted-to.pdf>] [6
 
 ]
-<alert.png, id=201, 555.07375pt x 122.4575pt>
+<alert.png, id=202, 555.07375pt x 122.4575pt>
 File: alert.png Graphic file (type png)
  <use alert.png>
 Package pdftex.def Info: alert.png used on input line 186.
@@ -1274,7 +1274,7 @@ t}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.186 \end{frame}
-                  <LabeledSelect.png, id=203, 888.31876pt x 224.84pt>
+                  <LabeledSelect.png, id=204, 888.31876pt x 224.84pt>
 File: LabeledSelect.png Graphic file (type png)
 
 <use LabeledSelect.png>
@@ -1286,7 +1286,7 @@ t}) has been already used, duplicate ignored
                    \relax 
 l.186 \end{frame}
                  
-<LabelledTextField-number.png, id=204, 899.36pt x 101.37875pt>
+<LabelledTextField-number.png, id=205, 899.36pt x 101.37875pt>
 File: LabelledTextField-number.png Graphic file (type png)
 
 <use LabelledTextField-number.png>
@@ -1297,7 +1297,7 @@ t}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.186 \end{frame}
-                  <LabeledSwitch.png, id=205, 317.185pt x 83.31125pt>
+                  <LabeledSwitch.png, id=206, 317.185pt x 83.31125pt>
 File: LabeledSwitch.png Graphic file (type png)
 
 <use LabeledSwitch.png>
@@ -1311,7 +1311,13 @@ l.186 \end{frame}
                   [7
 
  <./alert.png> <./LabeledSelect.png> <./LabelledTextField-number.png> <./Labele
-dSwitch.png>]
+dSwitch.png>] [8
+
+] [9
+
+] [10
+
+]
 \tf@nav=\write6
 \openout6 = `proj5.nav'.
 
@@ -1321,11 +1327,11 @@ dSwitch.png>]
 \tf@snm=\write8
 \openout8 = `proj5.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 189.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 189.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 241.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 241.
  (./proj5.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 189.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 189.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 241.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 241.
 Package rerunfilecheck Info: File `proj5.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1338,20 +1344,20 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 19508 strings out of 493013
- 357460 string characters out of 6139317
+ 19521 strings out of 493013
+ 357578 string characters out of 6139317
  453855 words of memory out of 5000000
- 22598 multiletter control sequences out of 15000+600000
+ 22605 multiletter control sequences out of 15000+600000
  5757 words of font info for 21 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,16n,66p,797b,949s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on proj5.pdf (7 pages, 377677 bytes).
+Output written on proj5.pdf (10 pages, 385052 bytes).
 PDF statistics:
- 254 PDF objects out of 1000 (max. 8388607)
- 212 compressed objects within 3 object streams
- 16 named destinations out of 1000 (max. 500000)
+ 333 PDF objects out of 1000 (max. 8388607)
+ 288 compressed objects within 3 object streams
+ 22 named destinations out of 1000 (max. 500000)
  128 words of extra memory for PDF output out of 10000 (max. 10000000)
 

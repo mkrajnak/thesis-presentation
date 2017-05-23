@@ -46,12 +46,12 @@
 
 
 \begin{frame}
-\frametitle{Motivácia súčasný stav - oVirt WebAdmin}
+\frametitle{Motivácia: súčasný stav - oVirt WebAdmin}
 \begin{itemize}
 \item súčasná implementácia je:
 \begin{itemize}
 \item pomalá
-\item náchylná na chyby, problémso stavom dialógu
+\item náchylná na chyby, problém so stavom dialógu
 \item s pribudajúcim kódom vzniká viac chýb (callback hell)
 \end{itemize}
 \item technológia GWT už nie je v aktívnom vývoji (Google)
@@ -185,5 +185,57 @@ podpora takmer všetkých vlastností a akcií
 
 \end{frame}
 
+\begin{frame}
+\frametitle{Riešenie asynchrónnych operácií}
+
+\begin{block}{generátorové funkcie}
+
+\begin{itemize}
+\item umožňujú pozastavenie funkcie na dobu vykonania určitej akcie
+\item záruka zachovania poradia operácií
+\end{itemize}
+
+\end{block}
+\end{frame}
+
+\begin{frame}
+\frametitle{Zhodnotenie výsledkov}
+
+\begin{itemize}
+\item kompletný graf závislostí virtuálneho stroja - 62 položiek
+\item oVirt API modul
+\item ManageIQ API modul
+\item riešenie závislostí pomocou generátorových funkcií
+\item jednotný stav dialógov - Redux
+\item možné alternatívne riešenie - stav dialógov rešených v ReactJS
+\item integrácia Patterfly knižnice a riešenie problémov s jQuery
+\item dialóg pre vytvorenie a úpravu virtuálneho stroja - 23 položiek
+\begin{itemize}
+\item menšia verzia dialógu v projekte oVirt WebUI
+\end{itemize}
+\item dialóg pre úpravu šablón
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{Zhodnotenie výsledkov}
+
+\begin{itemize}
+\item kompletný graf závislostí virtuálneho stroja - 62 položiek
+\item oVirt API modul
+\item ManageIQ API modul - komunikácia s vývojármi projektu a testovanie
+\item riešenie závislostí pomocou generátorových funkcií
+\item jednotný stav dialógov - Redux
+\item možné alternatívne riešenie - stav dialógov rešených v ReactJS
+\item integrácia Patterfly knižnice a riešenie problémov s jQuery
+\item dialóg pre vytvorenie a úpravu virtuálneho stroja - 23 položiek
+\begin{itemize}
+\item menšia verzia dialógu v projekte oVirt WebUI
+\end{itemize}
+\item dialóg pre úpravu šablón
+\end{itemize}
+
+\end{frame}
 
 \end{document}
