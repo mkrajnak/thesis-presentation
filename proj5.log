@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.5.14)  24 MAY 2017 01:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.5.14)  24 MAY 2017 01:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1354,7 +1354,7 @@ Here is how much of TeX's memory you used:
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on proj5.pdf (10 pages, 385052 bytes).
+Output written on proj5.pdf (10 pages, 385066 bytes).
 PDF statistics:
  333 PDF objects out of 1000 (max. 8388607)
  288 compressed objects within 3 object streams
