@@ -69,14 +69,8 @@
 \begin{block}{Backend}
 
 \begin{itemize}
-\item dva nezávyslé moduly:
-
-\begin{itemize}
 \item oVirt REST API
 \item ManageIQ REST API
-\end{itemize}
-
-\item jQuery, Ajax
 \end{itemize}
 
 \end{block}
@@ -85,34 +79,17 @@
 \begin{itemize}
 \item Redux-saga:
 \begin{itemize}
-\item riadenie asynchrónnych operácii
-\item riešenie závislostí virtuálneho stroja
+\item asynchrónne operácie, závislosti virtuálneho stroja
 \item konverzia entít na vnútornú reprezentáciu
-\item odosielanie požiadavkov a vyhodnotenie odpovede
 \end{itemize}
-\item Redux - načítanie a uloženie dát potrebných pre prácu s dialógmi (virtuálne stroje, clustre, šablony)
 \end{itemize}
 \end{block}
 
-\end{frame}
-
-
-\begin{frame}
-
 \begin{block}{Frontend - ReactJS}
 \begin{itemize}
-\item návrh bezstavových komponent s dôrazom na znovupoužiteľnosť
+\item návrh komponent s dôrazom na znovupoužiteľnosť
 \item návrh hlavných komponent - dialógov
 \item použitie štýlov z knižnice Patternfly
-\item Redux 
-
-\begin{itemize}
-\item správa stavu aplikácie/dialógov
-\item prepojenie na middleware
-\item zachovanie konzistencie a predvídateľnosti stavu
-\end{itemize}
-
-\item JSX 
 \end{itemize}
 \end{block}
 
@@ -183,19 +160,6 @@ podpora takmer všetkých vlastností a akcií
 \label{labelledSelect}
 \end{figure}
 
-\end{frame}
-
-\begin{frame}
-\frametitle{Riešenie asynchrónnych operácií}
-
-\begin{block}{generátorové funkcie}
-
-\begin{itemize}
-\item umožňujú pozastavenie funkcie na dobu vykonania určitej akcie
-\item záruka zachovania poradia operácií
-\end{itemize}
-
-\end{block}
 \end{frame}
 
 \begin{frame}
