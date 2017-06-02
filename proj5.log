@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.5.14)  24 MAY 2017 12:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.5.14)  2 JUN 2017 17:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1227,15 +1227,34 @@ Dictionary: translator-theorem-dictionary, Language: English
 LaTeX Info: Redefining \includegraphics on input line 41.
 \c@lstlisting=\count172
  (./proj5.nav)
+Overfull \hbox (6.25775pt too wide) in paragraph at lines 41--41
+ [][][][]  
+ []
+
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 45.
 
+
+Overfull \hbox (6.25775pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (6.25775pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
-] [3
+[2
+
+]
+Overfull \hbox (6.25775pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[3
 
 ]
 Package epstopdf Info: Source file: <application_architecture.eps>
@@ -1257,12 +1276,21 @@ File: application_architecture-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: application_architecture-eps-converted-to.pdf used on 
 input line 106.
 (pdftex.def)             Requested size: 233.07254pt x 202.95981pt.
- [4
 
- <./application_architecture-eps-converted-to.pdf>] [5
+Overfull \hbox (6.25775pt too wide) has occurred while \output is active
+ [][][][]  
+ []
 
-]
-<alert.png, id=176, 555.07375pt x 122.4575pt>
+[4
+
+ <./application_architecture-eps-converted-to.pdf>]
+Overfull \hbox (6.25775pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[5
+
+] <alert.png, id=176, 555.07375pt x 122.4575pt>
 File: alert.png Graphic file (type png)
  <use alert.png>
 Package pdftex.def Info: alert.png used on input line 163.
@@ -1306,10 +1334,20 @@ t}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.163 \end{frame}
-                  [6
+                 
+Overfull \hbox (6.25775pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[6
 
  <./alert.png> <./LabeledSelect.png> <./LabelledTextField-number.png> <./Labele
-dSwitch.png>] [7
+dSwitch.png>]
+Overfull \hbox (6.25775pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[7
 
 ]
 \tf@nav=\write6
@@ -1340,7 +1378,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  19509 strings out of 493013
  357477 string characters out of 6139317
- 453856 words of memory out of 5000000
+ 453880 words of memory out of 5000000
  22599 multiletter control sequences out of 15000+600000
  5757 words of font info for 21 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1348,7 +1386,7 @@ Here is how much of TeX's memory you used:
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on proj5.pdf (7 pages, 378023 bytes).
+Output written on proj5.pdf (7 pages, 378858 bytes).
 PDF statistics:
  254 PDF objects out of 1000 (max. 8388607)
  212 compressed objects within 3 object streams
