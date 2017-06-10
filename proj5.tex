@@ -49,16 +49,15 @@
 \frametitle{Motivácia: súčasný stav - oVirt WebAdmin}
 \begin{itemize}
 \item technológia GWT už nie je v aktívnom vývoji (Google)
-\item súčasná implementácia je:
+\item problémy súčasnej implementácie:
 \begin{itemize}
-\item pomalá
-\item náchylná na chyby, problém so stavom dialógu
-\item s pribudajúcim kódom vzniká viac chýb (callback hell)
+\item rýchlosť
+\item správnosť dát v dialógu
+\item náchylnosť na chyby s pribudajúcim kódom (callback hell)
 \end{itemize}
-\item virtuálny stroj 
+\item chýbajúca dokumentácia závislostí virtuálneho stroja 
 \begin{itemize}
-\item veľký počet závislostí, ktoré su vzájomne ovplyvniteľné
-\item chýbajúca dokumentácia závislostí
+\item veľký počet závislostí, ktoré sú vzájomne ovplyvniteľné
 \end{itemize}
 \end{itemize}
 \end{frame}
@@ -76,18 +75,17 @@
 \end{block}
 
 \begin{block}{Redux-saga middleware}
-\begin{itemize}
-\item Redux-saga:
+
 \begin{itemize}
 \item asynchrónne operácie, závislosti virtuálneho stroja
 \item konverzia entít na vnútornú reprezentáciu
 \end{itemize}
-\end{itemize}
+
 \end{block}
 
 \begin{block}{Frontend - ReactJS}
 \begin{itemize}
-\item návrh komponent s dôrazom na znovupoužiteľnosť
+\item návrh subkomponent s dôrazom na znovupoužiteľnosť
 \item návrh hlavných komponent - dialógov
 \item použitie štýlov z knižnice Patternfly
 \end{itemize}

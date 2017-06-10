@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.5.14)  2 JUN 2017 17:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.5.14)  10 JUN 2017 23:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1266,15 +1266,15 @@ pdf>
 (epstopdf)                    size: 285863 bytes
 (epstopdf)             Command: <repstopdf --outfile=application_architecture-e
 ps-converted-to.pdf application_architecture.eps>
-(epstopdf)             \includegraphics on input line 106.
+(epstopdf)             \includegraphics on input line 104.
 Package epstopdf Info: Output file is already uptodate.
 
-<application_architecture-eps-converted-to.pdf, id=118, 388.45125pt x 338.26375
+<application_architecture-eps-converted-to.pdf, id=116, 388.45125pt x 338.26375
 pt>
 File: application_architecture-eps-converted-to.pdf Graphic file (type pdf)
  <use application_architecture-eps-converted-to.pdf>
 Package pdftex.def Info: application_architecture-eps-converted-to.pdf used on 
-input line 106.
+input line 104.
 (pdftex.def)             Requested size: 233.07254pt x 202.95981pt.
 
 Overfull \hbox (6.25775pt too wide) has occurred while \output is active
@@ -1290,50 +1290,50 @@ Overfull \hbox (6.25775pt too wide) has occurred while \output is active
 
 [5
 
-] <alert.png, id=176, 555.07375pt x 122.4575pt>
+] <alert.png, id=174, 555.07375pt x 122.4575pt>
 File: alert.png Graphic file (type png)
  <use alert.png>
-Package pdftex.def Info: alert.png used on input line 163.
+Package pdftex.def Info: alert.png used on input line 161.
 (pdftex.def)             Requested size: 170.71652pt x 37.66245pt.
 pdfTeX warning (ext4): destination with the same identifier (name{labelledSelec
 t}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.163 \end{frame}
-                  <LabeledSelect.png, id=178, 888.31876pt x 224.84pt>
+l.161 \end{frame}
+                  <LabeledSelect.png, id=176, 888.31876pt x 224.84pt>
 File: LabeledSelect.png Graphic file (type png)
 
 <use LabeledSelect.png>
-Package pdftex.def Info: LabeledSelect.png used on input line 163.
+Package pdftex.def Info: LabeledSelect.png used on input line 161.
 (pdftex.def)             Requested size: 170.71652pt x 43.2072pt.
 pdfTeX warning (ext4): destination with the same identifier (name{labelledSelec
 t}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.163 \end{frame}
+l.161 \end{frame}
                  
-<LabelledTextField-number.png, id=179, 899.36pt x 101.37875pt>
+<LabelledTextField-number.png, id=177, 899.36pt x 101.37875pt>
 File: LabelledTextField-number.png Graphic file (type png)
 
 <use LabelledTextField-number.png>
-Package pdftex.def Info: LabelledTextField-number.png used on input line 163.
+Package pdftex.def Info: LabelledTextField-number.png used on input line 161.
 (pdftex.def)             Requested size: 170.71652pt x 19.24359pt.
 pdfTeX warning (ext4): destination with the same identifier (name{labelledSelec
 t}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.163 \end{frame}
-                  <LabeledSwitch.png, id=180, 317.185pt x 83.31125pt>
+l.161 \end{frame}
+                  <LabeledSwitch.png, id=178, 317.185pt x 83.31125pt>
 File: LabeledSwitch.png Graphic file (type png)
 
 <use LabeledSwitch.png>
-Package pdftex.def Info: LabeledSwitch.png used on input line 163.
+Package pdftex.def Info: LabeledSwitch.png used on input line 161.
 (pdftex.def)             Requested size: 56.9055pt x 14.94579pt.
 pdfTeX warning (ext4): destination with the same identifier (name{labelledSelec
 t}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.163 \end{frame}
+l.161 \end{frame}
                  
 Overfull \hbox (6.25775pt too wide) has occurred while \output is active
  [][][][]  
@@ -1359,11 +1359,11 @@ Overfull \hbox (6.25775pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `proj5.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 186.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 186.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 184.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 184.
  (./proj5.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 186.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 186.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 184.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 184.
 Package rerunfilecheck Info: File `proj5.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1376,20 +1376,23 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 19513 strings out of 493013
- 357527 string characters out of 6139317
+ 19515 strings out of 493013
+ 357500 string characters out of 6139317
  453880 words of memory out of 5000000
- 22603 multiletter control sequences out of 15000+600000
+ 22604 multiletter control sequences out of 15000+600000
  5757 words of font info for 21 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,16n,66p,797b,949s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on proj5.pdf (7 pages, 378755 bytes).
+pdfTeX warning (dest): name{Navigation8} has been referenced but does not exi
+st, replaced by a fixed one
+
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmss8.pfb>
+Output written on proj5.pdf (7 pages, 378676 bytes).
 PDF statistics:
- 254 PDF objects out of 1000 (max. 8388607)
+ 253 PDF objects out of 1000 (max. 8388607)
  212 compressed objects within 3 object streams
- 16 named destinations out of 1000 (max. 500000)
- 128 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 17 named destinations out of 1000 (max. 500000)
+ 122 words of extra memory for PDF output out of 10000 (max. 10000000)
 
